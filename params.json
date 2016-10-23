@@ -1,0 +1,6 @@
+{
+  "name": "ClickGrapher",
+  "tagline": "A Click (Python CLI) tool for drawing graphs from files.",
+  "body": "Present Graphs in Terminal. \r\n\r\nDraws a graph from a given points in a file. Automatically scales graph's viewpoint and optionally connects the points. \r\n\r\n### DOCS\r\n\r\n#### Usage:\r\n`grapher [OPTIONS] FILE`\r\n\r\n#### Options:\r\n\r\n**height**\r\n\r\nDefine the height of a graph.\r\n`--height INTEGER` or `-h INTEGER`\r\n\r\n`\r\n  -h, --height INTEGER  Number of characters used to display height of a graph.\r\n  -w, --width INTEGER   Number of characters used to display width of a graph.\r\n  -s, --step INTEGER    How wide should each space be.\r\n`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
